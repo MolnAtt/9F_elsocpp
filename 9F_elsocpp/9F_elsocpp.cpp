@@ -41,5 +41,5 @@ int main() // entry point
         cout << "Lepek!\n";
     }
 
-
+    cout << "izé";
 }
